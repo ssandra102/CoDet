@@ -17,5 +17,5 @@ For exclusive knn algorithm (used to detect colors) check out 'colordetection.py
 
 ## Screenshots
 ![Screenshot1](https://user-images.githubusercontent.com/72643907/225682356-fd735f90-52d2-4b34-b16e-15aa1f32dd60.jpg)
-![web app](screenshots/Screenshot1.jpg "Image 2")
-![web app](screenshots/Screenshot1.jpg "Image 3")
+![Screenshot2](https://user-images.githubusercontent.com/72643907/225682717-1b3b5b05-e8ee-4ec8-ba26-7f5818a06547.jpg)
+![Screenshot3](https://user-images.githubusercontent.com/72643907/225682724-a005a2cc-530a-418d-b99c-678899db8ad3.jpg)
