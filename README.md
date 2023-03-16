@@ -14,3 +14,8 @@ After installing the libraries, run the code by typing the following command in 
 The user can select a picture from the sidebar on the left side of the webapp. The color composition of the picture will be displayed as a pie chart.<br>
 For exclusive knn algorithm (used to detect colors) check out 'colordetection.py' 
 :]
+
+## Screenshots
+![web app](screenshots/Screenshot1.png "Image 1")
+![web app](screenshots/Screenshot1.png "Image 2")
+![web app](screenshots/Screenshot1.png "Image 3")
