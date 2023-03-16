@@ -16,6 +16,6 @@ For exclusive knn algorithm (used to detect colors) check out 'colordetection.py
 :]
 
 ## Screenshots
-![web app](screenshots/Screenshot1.png "Image 1")
-![web app](screenshots/Screenshot1.png "Image 2")
-![web app](screenshots/Screenshot1.png "Image 3")
+![web app](screenshots/Screenshot1.jpg "Image 1")
+![web app](screenshots/Screenshot1.jpg "Image 2")
+![web app](screenshots/Screenshot1.jpg "Image 3")
