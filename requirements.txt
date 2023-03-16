@@ -1,4 +1,4 @@
 matplotlib
 opencv-python-headless
-sklearn
+scikit-learn
 streamlit
