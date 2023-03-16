@@ -4,7 +4,7 @@ Color Detection webapp made with python, using KNN algorithm
 ## How to setup
 Install the packages contained in the 'requirements.txt' file by entering the following command in the terminal <br>
 ```python
-    pip install -r requirements.txt'
+    pip install -r requirements.txt
 ```
 After installing the libraries, run the code by typing the following command in the terminal <br>
 ```python
